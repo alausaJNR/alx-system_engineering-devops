@@ -1,1 +1,3 @@
-My first commit on shell task
+#!/bin/bash
+pwd
+
